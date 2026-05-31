@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Paper preview placeholder</title>
+  <desc id="desc">A neutral placeholder for a publication preview image.</desc>
+  <rect width="640" height="400" fill="#f4f4f5"/>
+  <rect x="52" y="52" width="536" height="296" rx="10" fill="#ffffff" stroke="#d4d4d8" stroke-width="2"/>
+  <rect x="92" y="96" width="292" height="18" rx="4" fill="#a1a1aa"/>
+  <rect x="92" y="136" width="456" height="10" rx="5" fill="#d4d4d8"/>
+  <rect x="92" y="160" width="404" height="10" rx="5" fill="#d4d4d8"/>
+  <rect x="92" y="184" width="438" height="10" rx="5" fill="#d4d4d8"/>
+  <rect x="92" y="232" width="164" height="76" rx="8" fill="#e4e4e7"/>
+  <rect x="288" y="232" width="164" height="76" rx="8" fill="#e4e4e7"/>
+  <circle cx="514" cy="270" r="34" fill="#d4d4d8"/>
+  <path d="M498 270h32M514 254v32" stroke="#71717a" stroke-width="8" stroke-linecap="round"/>
+</svg>
